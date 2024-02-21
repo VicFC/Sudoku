@@ -1,2 +1,2 @@
 # Sudoku
-Game coded in Python with TKinter. Game is also originally in Spanish.
+Game coded in Python with Tkinter. Game is also originally in Spanish.
