@@ -1,2 +1,2 @@
 # Sudoku
-Simple sudoku program
+The game is originally in spanish.
