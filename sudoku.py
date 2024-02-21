@@ -1,6 +1,8 @@
 import random
 from tkinter import *
 
+# Coded in Spanish
+
 # Dimensión básica
 N = 9
 
